@@ -28,7 +28,8 @@ if rev==num:
 else:
     print("The given number {} is not a palindrome".format(num))
 ## Output
-<img width="532" height="613" alt="Screenshot 2025-10-22 210625" src="https://github.com/user-attachments/assets/a83d8ac3-1e27-485b-b83a-ce13c7cdd45c" />
+
+<img width="911" height="247" alt="Screenshot 2025-10-22 210921" src="https://github.com/user-attachments/assets/40e11848-17f6-4234-a17a-f181b3976a8c" />
 
 
 ## Result
