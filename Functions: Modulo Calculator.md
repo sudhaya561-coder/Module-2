@@ -13,7 +13,17 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
+def result(a, b):
+    modulo_value = a % b
+    return modulo_value
+
+a=int(input())
+b=int(input())
+print("modulo is", result(a, b))
 
 ## Output
+<img width="555" height="304" alt="Screenshot 2025-10-22 205419" src="https://github.com/user-attachments/assets/1d90d72b-63c1-4f6c-8527-cd0485e19905" />
+
 
 ## Result
+thus,the code runs successfully.
