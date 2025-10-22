@@ -10,7 +10,14 @@ To write a Python program that defines a **lambda function** which takes two arg
 
 ## 🧾 Program
 Add code here
+i=int(input())
+j=int(input())
+z=int(input())
+f = lambda a, b,c: a+b+c
+print(f(i, j,z))
 
 ## Output
+<img width="459" height="373" alt="Screenshot 2025-10-22 205656" src="https://github.com/user-attachments/assets/9a478288-54d0-4ee0-a85b-a00cbcd9aee3" />
 
 ## Result
+thus,the code runs successfully.
